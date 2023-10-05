@@ -1,6 +1,6 @@
 # Django v5 [Volt Dashboard](https://appseed.us/product/volt-dashboard/django/)
 
-Open-source **Django Dashboard** built on top of a modern design. **[Volt Dashboard](https://appseed.us/product/volt-dashboard/django/)** is a free and open source `Bootstrap 5` Admin Dashboard featuring over 100 components, 11 example pages and 3 plugins with Vanilla JS. There are more than 100 free Bootstrap 5 components included some of them being buttons, alerts, modals, and datepickers.
+Open-source **[Django Dashboard](https://appseed.us/admin-dashboards/django/)** built on top of a modern design. **Volt Dashboard** is a free and open-source `Bootstrap 5` Admin Dashboard featuring over 100 components, 11 example pages, and 3 plugins with Vanilla JS. There are over 100 free Bootstrap 5 components included, including buttons, alerts, modals, and date pickers.
 
 - 👉 Read more about **[Django 5 Release Highlights](https://blog.appseed.us/django-5-release-summary-and-sample/)**
 - 🚀 See more **[Open-source Django 5 Starters](https://github.com/app-generator/django-5-release-free-samples)** 
